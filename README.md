@@ -1,6 +1,6 @@
 ### Shanghai Rent Problem
 
-Application that scrapes Shanghai rental listings and notifies about new options that fit requirements.
+Application that scrapes Shanghai rental listings and notifies about new options that fit requirements. <br>
 Scraper: Python (Beautiful Soup)
 Data Wrangling: pandas
 Infrastructure: AWS (Lambda, S3, EventBridge)
